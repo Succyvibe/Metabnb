@@ -60,7 +60,7 @@
   outline: 0;
 }
 
-.modal {
+/* .modal {
   z-index: 100;
   background: white;
   position: relative;
@@ -68,13 +68,13 @@
   border-radius: 3px;
   max-width: 500px;
   padding: 2rem;
-}
-
+} */
+/* 
 .modal-header {
   display: flex;
   justify-content: flex-end;
-}
-
+} */
+/* 
 .modal-close-button {
   font-size: 1.4rem;
   font-weight: 700;
@@ -83,7 +83,7 @@
   opacity: 0.3;
   cursor: pointer;
   border: none;
-}
+} */
 
 button {
   font-size: 0.9rem;
