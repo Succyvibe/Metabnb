@@ -5,15 +5,15 @@ const InspirationSection = () => {
   return (
     <section className="mb-20">
       <div className="container mx-auto">
-        <h1 className="text-center text-[48px] font-[700]">
+        <h1 className="text-center text-[30px] md:text-[48px] font-[700]">
           Inspiration for your next adventure
         </h1>
 
         {/* ===========================Grid box============================= */}
-        <div className="container mx-auto mt-10">
-          <div className="grid grid-cols-4 gap-y-5">
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+        <div className="container mx-auto mt-10 px-4">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-y-5">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -40,8 +40,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -68,8 +68,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -96,8 +96,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -124,8 +124,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -152,8 +152,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -180,8 +180,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -208,8 +208,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="min-h-[372px] w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">

@@ -98,3 +98,9 @@ button {
   background: #247ba0;
   color: #fff;
 }
+
+.connectBtn,
+.sponsors,
+.learn-more {
+  background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+}
