@@ -2,8 +2,8 @@ import React from "react";
 
 const DropDown = () => {
   return (
-    <div className="relative w-full lg:max-w-sm block md:hidden">
-      <select className="w-full p-2.5 text-gray-500 bg-white border rounded-md shadow-sm outline-none appearance-none focus:border-indigo-600">
+    <div className="relative w-full lg:max-w-sm block lg:hidden">
+      <select className="w-full p-3 text-gray-500 bg-white border rounded-md shadow-sm outline-none  focus:border-indigo-600">
         <option>Restaurant</option>
         <option>Cottage</option>
         <option>Castle</option>

@@ -6,7 +6,7 @@ import copyrightIcon from "../../src/imgs/copyright.png";
 const Footer = () => {
   return (
     <footer className="bg-[#1D1D1E]">
-      <div className="container mx-auto py-16 px-8 md:px-0">
+      <div className="lg:max-w-7xl mx-auto py-16 px-8 ">
         <div className="flex justify-between">
           <div className="flex flex-col space-y-10 md:space-y-12">
             <img

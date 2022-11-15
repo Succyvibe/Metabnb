@@ -14,7 +14,7 @@ function App() {
   const { isShowing, toggle } = useModal();
   return (
     <Router>
-      <div className="">
+      <div>
         <Navbar onToggle={toggle} />
 
         <Modal isShowing={isShowing} hide={toggle} />

@@ -1,7 +1,7 @@
 const Search = () => {
   return (
     <div>
-      <div className="flex md:w-[618.71px] bg-[rgba(247, 247, 247, 0.1)] border border-1 border-[#A3A3A3] rounded-xl pl-6 mt-10">
+      <div className="flex md:w-[618.71px] xl:w-[618.71px] lg:w-[430px] bg-[rgba(247, 247, 247, 0.1)] border border-1 border-[#A3A3A3] rounded-xl pl-6 mt-10">
         <input
           type="text"
           placeholder="Search loaction"
