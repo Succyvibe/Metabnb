@@ -22,7 +22,7 @@ const LearnMore = () => {
               <img src={group5} alt="" className="block  md:hidden" />
             </div>
             <Link to="/register">
-              <div className="bg-white w-full md:w-[156px] flex justify-center items-center h-[48px] text-[ #A02279] rounded-[10px] baseline hover:bg-purple-400">
+              <div className="bg-white w-full md:w-[156px] flex justify-center items-center h-[48px] text-[ #A02279] rounded-[10px] baseline text-[#A02279] hover:text-white hover:bg-[#A02279]">
                 Learn More
               </div>
             </Link>
