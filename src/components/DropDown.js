@@ -3,7 +3,7 @@ import React from "react";
 const DropDown = () => {
   return (
     <div className="relative w-full lg:max-w-sm block lg:hidden">
-      <select className="w-full p-3 text-gray-500 bg-white border rounded-md shadow-sm outline-none  focus:border-indigo-600">
+      <select className="w-full p-3 text-gray-500 bg-white border rounded-md shadow-sm outline-none  focus:border-indigo-600 md:mt-10">
         <option>Restaurant</option>
         <option>Cottage</option>
         <option>Castle</option>

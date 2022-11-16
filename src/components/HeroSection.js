@@ -11,7 +11,7 @@ import Search from "./Search";
 const HeroSection = () => {
   return (
     <section className="mb-20">
-      <div className="lg:max-w-7xl mx-auto flex flex-col-reverse md:flex-row md:px-6 lg:mt-20  justify-between">
+      <div className="lg:max-w-7xl mx-auto flex flex-col-reverse md:flex-row md:px-6 mt-20 lg:mt-40 xl:mt-40  justify-between">
         {/* left item */}
 
         <div className="hidden lg:w-[450px] xl:w-[646px] lg:block ">

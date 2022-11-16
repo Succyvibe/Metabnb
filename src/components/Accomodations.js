@@ -19,8 +19,8 @@ import DropDown from "./DropDown";
 const Accomodations = () => {
   return (
     <section className="my-20">
-      <div className="lg:max-w-7xl mx-auto px-4">
-        <div className="hidden list-none lg:flex justify-between items-center text-[20px] font-[400]">
+      <div className="lg:max-w-7xl mx-auto px-4 ">
+        <div className="hidden list-none lg:flex justify-between items-center text-[20px] font-[400] lg:mt-32">
           <li>Restaurant</li>
           <li>Cottage</li>
           <li>Castle</li>
