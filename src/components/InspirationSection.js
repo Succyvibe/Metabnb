@@ -23,11 +23,7 @@ const InspirationSection = () => {
             <div className="w-full min-h-[372px] md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
               <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px] relative">
                 <img src={frame1} alt="" className="w-full h-full cover" />
-                <img
-                  src={heart}
-                  alt=""
-                  className="absolute top-2 right-2 cursor-pointer"
-                />
+                
               </div>
               <div className="flex justify-between mb-3 mt-3">
                 <p className="text-[#434343] text-[12px] font-[400]">
