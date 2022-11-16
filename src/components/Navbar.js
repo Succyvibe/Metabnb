@@ -15,7 +15,7 @@ export default function NavBar({ onToggle }) {
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 lg:block">
             {/* logo */}
-            <Link to="/" className="pt-2">
+            <Link to="/" onClick={() => setNavbar(!navbar)} className="pt-2">
               <img
                 src={companyLogo}
                 alt="logo"
@@ -69,24 +69,28 @@ export default function NavBar({ onToggle }) {
             <ul className="flex flex-col items-center justify-center space-y-4 lg:flex md:space-x-6 lg:space-y-0 lg:justify-between md:items-center lg:flex-row md:mt-3">
               <Link
                 to="/"
+                onClick={() => setNavbar(!navbar)}
                 className=" hover:text-purple-600 text-[#434343] text-[20px]"
               >
                 Home
               </Link>
               <Link
                 to="/accomodations"
+                onClick={() => setNavbar(!navbar)}
                 className="hover:text-purple-600 text-[#434343] text-[20px]"
               >
                 Place to stay
               </Link>
               <Link
                 to="/nft"
+                onClick={() => setNavbar(!navbar)}
                 className="hover:text-purple-600 text-[#434343] text-[20px]"
               >
                 NFTs
               </Link>
               <Link
                 to="/community"
+                onClick={() => setNavbar(!navbar)}
                 className="hover:text-purple-600 text-[#434343] text-[20px]"
               >
                 Community
