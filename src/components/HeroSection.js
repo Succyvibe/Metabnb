@@ -1,4 +1,4 @@
-import heroImg from "../../src/imgs/hero1.png";
+import group4 from "../../src/imgs/group4.png";
 import heroImg5 from "../../src/imgs/image-5.png";
 import heroImg1 from "../../src/imgs/frame4.png";
 import heroImg6 from "../../src/imgs/image-6.png";
@@ -40,9 +40,9 @@ const HeroSection = () => {
             <span className="text-[#A02279] ml-2 mr-2">Metaverse</span>
           </h1>
 
-          <div className="w-[350px] h-[176px] md:w-[550px] md:h-[300px] rounded-xl mx-auto">
+          <div className="w-[280px] md:w-[380px]  rounded-xl mx-auto">
             <img
-              src={heroImg}
+              src={group4}
               alt="Hero"
               className="w-full h-full object-cover rounded-xl"
             />

@@ -18,9 +18,9 @@ const InspirationSection = () => {
 
         {/* ===========================Grid box============================= */}
         <div className="lg:max-w-7xl mx-auto mt-10 px-8">
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-y-5 gap-x-5">
-            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-y-5 gap-x-5">
+            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -47,8 +47,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={hero1} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -75,8 +75,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame3} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -103,8 +103,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame4} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -131,8 +131,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame5} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -159,8 +159,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame6} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -187,8 +187,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px] md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame7} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
@@ -215,8 +215,8 @@ const InspirationSection = () => {
                 <img src={rating} alt="" />
               </div>
             </div>
-            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
-              <div className="w-full md:w-[325px] lg:w-[260px] h-[265px]  rounded-[15px]">
+            <div className="w-full min-h-[372px]  md:w-[350px] lg:w-[238px] xl:w-[292px] border border-1 border-[#D7D7D7] rounded-[15px] p-3">
+              <div className="w-full md:w-[325px] lg:w-[212px] xl:w-[260px] h-[265px]  rounded-[15px]">
                 <img src={frame8} alt="" className="w-full h-full cover" />
               </div>
               <div className="flex justify-between mb-3 mt-3">
