@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import image7 from "../../src/imgs/img7.png";
 import image8 from "../../src/imgs/img8.png";
 import image9 from "../../src/imgs/img9.png";

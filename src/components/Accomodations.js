@@ -8,7 +8,6 @@ import frame11 from "../../src/imgs/frame-3.png";
 import frame12 from "../../src/imgs/image-5.png";
 import frame13 from "../../src/imgs/frame13.png";
 import frame10 from "../../src/imgs/frame10.png";
-import frame14 from "../../src/imgs/frame14.png";
 import frame17 from "../../src/imgs/frame17.png";
 import frame16 from "../../src/imgs/frame16.png";
 import frame18 from "../../src/imgs/frame18.png";
